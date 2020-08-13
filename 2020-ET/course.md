@@ -17,6 +17,6 @@ Zoom [link](https://illinois.zoom.us/j/91576658157?pwd=TEJFUFg5YnBYeDFxd2FIVGZXe
 
 ## Lectures
 
-Lecture 1: [Video](https://youtu.be/SD-92Wh_6zU)
+Lecture 1: (2 Aug) [Notes](pdf/lec1.pdf) [Video](https://youtu.be/SD-92Wh_6zU)
 
-Lecture 2: (9 Aug 9AM IST)
+Lecture 2: TBD
