@@ -13,7 +13,7 @@ In this course I started Mobius transforms, the hyperbolic metric on half space 
 
 2. Subhojoy Gupta's [notes](pdf/inthypgeom.pdf)
 
-3. My consolidated [notes](pdf/allnotes.pdf) (in progress)
+3. My consolidated [notes](pdf/allnotes.pdf) (in progress) [mobile friendly version](pdf/allnotes_A5.pdf)
 
 ## Lectures
 
