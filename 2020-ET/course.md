@@ -23,4 +23,4 @@ Lecture 2: (1 Sep) [Notes](pdf/lec2.pdf) [Video](https://youtu.be/VrDH81jex7E)
 
 Lecture 3: (4 Sep) [Notes](pdf/lec3.pdf) [Video](https://youtu.be/HFW7n2dzf0A)
 
-Lecture 4: (13 Sep) [Video](https://youtu.be/8Ihv-_HxTSA)
+Lecture 4: (13 Sep) [Notes](pdf/lec4.pdf) [Video](https://youtu.be/8Ihv-_HxTSA)
