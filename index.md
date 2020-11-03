@@ -1,6 +1,8 @@
+---
+layout: page
+---
+
 # About
-
-
 
 Email: k3iseries [at] gmail [dot] com
 
