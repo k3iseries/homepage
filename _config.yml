@@ -3,4 +3,6 @@ permalink: /:path/:basename:output_ext
 title: K^3I Series
 header_pages:
   - index.md
-      
+  
+  
+exclude: ["README.md"]
