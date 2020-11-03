@@ -1,12 +1,10 @@
----
-layout: page
----
 
-## About
+
+# About
 
 Email: k3iseries [at] gmail [dot] com
 
-## Courses
+# Courses
 
 [Ergodic Theory](2020-ET/)
 
