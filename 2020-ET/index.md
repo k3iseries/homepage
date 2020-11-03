@@ -1,5 +1,5 @@
 ---
-title: Ergogic Theory
+title: Ergodic Theory
 ---
 
 # Ergodic Theory
