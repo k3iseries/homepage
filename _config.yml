@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: minima
 permalink: /:path/:basename:output_ext
 title: K^3I Series
 
